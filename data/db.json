@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": "usr_admin_101",
+      "name": "Portal Administrator",
+      "email": "admin@college.edu",
+      "password": "$2a$10$H34pzC4pkxXoa5GpTqENaO4U1J4y9Mn1xB.jl40RorcGJ8TSLkryy",
+      "role": "admin",
+      "createdAt": "2026-10-09T09:55:35.261Z"
+    },
+    {
+      "id": "usr_user_102",
+      "name": "Aarav Sharma",
+      "email": "aarav@college.edu",
+      "password": "$2a$10$.UjwIXzm6ouYpuSLUgEvauUTCYJgpXwQqAR.AiThVev2gR6d0punS",
+      "role": "user",
+      "createdAt": "2026-10-09T09:55:35.499Z"
+    },
+    {
+      "id": "usr_1791539818373_540",
+      "name": "Kavya Menon",
+      "email": "kavya.m@college.edu",
+      "password": "$2a$10$.MAY4Fy13Kb68RKEFuZJYOwXnicJ8jpuz0hFAo0.4umJ/wTY3M5xO",
+      "role": "user",
+      "createdAt": "2026-10-09T09:56:58.567Z"
+    }
+  ],
+  "registrations": [
+    {
+      "id": "reg_1791539799310_378",
+      "userId": "usr_admin_101",
+      "name": "Siddharth Roy",
+      "email": "siddharth@college.edu",
+      "phone": "9876543210",
+      "age": 21,
+      "course": "B.E. Computer Science and Engineering",
+      "createdAt": "2026-10-09T09:56:39.310Z",
+      "updatedAt": "2026-10-09T09:56:39.310Z"
+    },
+    {
+      "id": "reg_101",
+      "userId": "usr_user_102",
+      "name": "Aarav Sharma (Auth Updated)",
+      "email": "aarav@college.edu",
+      "phone": "9876543210",
+      "age": 22,
+      "course": "B.E. Computer Science and Engineering",
+      "createdAt": "2026-10-01T10:30:00.000Z",
+      "updatedAt": "2026-10-09T09:57:16.740Z"
+    },
+    {
+      "id": "reg_103",
+      "userId": "usr_admin_101",
+      "name": "Rohan Verma",
+      "email": "rohan.v@college.edu",
+      "phone": "8765432109",
+      "age": 22,
+      "course": "B.E. Electronics and Communication Engineering",
+      "createdAt": "2026-10-05T09:45:00.000Z",
+      "updatedAt": "2026-10-05T09:45:00.000Z"
+    }
+  ]
+}
